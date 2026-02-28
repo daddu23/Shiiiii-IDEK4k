@@ -1,0 +1,906 @@
+[
+  {
+    "id": "a-bugs-life-1998",
+    "name": "A Bug's Life (1998)",
+    "poster": "assets/Images/ABugsLife.jpg",
+    "drive": "https://drive.google.com/file/d/1AIq4OqiMWiY9zZSayF5VID7pfTwSH6BM/preview",
+    "type": "movie"
+  },
+  {
+    "id": "adventure-time-complete",
+    "name": "Adventure Time (Complete Series)",
+    "poster": "assets/Images/AdventureTime.jpg",
+    "drive": "https://drive.google.com/drive/folders/1OwoKydzUQUUp6n-Nh7CCAQXGLfchU8Ta/preview",
+    "type": "show"
+  },
+  {
+    "id": "alice-in-borderland",
+    "name": "Alice in Borderland (Complete Series)",
+    "poster": "assets/Images/AliceInBorderland.jpg",
+    "drive": "https://drive.google.com/drive/folders/12m78G5R4YjPUCIDIHJ3VAnK7IJRbSw8A/preview",
+    "type": "show"
+  },
+  {
+    "id": "alvin-and-the-chipmunks",
+    "name": "Alvin and the Chipmunks",
+    "poster": "assets/Images/AlvinAndTheChipmunks.jpg",
+    "drive": "https://drive.google.com/file/d/1uCRRJZj1GAaweX996uHbF2zxPoessmGW/preview",
+    "type": "movie"
+  },
+  {
+    "id": "ant-man-and-the-wasp",
+    "name": "Ant-Man and the Wasp",
+    "poster": "assets/Images/AntManandTheWasp.jpg",
+    "drive": "https://drive.google.com/file/d/1AstKQ5KLX94k7RFIlsu2St9um8sS_w_M/preview",
+    "type": "movie"
+  },
+  {
+    "id": "arcane-season-1",
+    "name": "Arcane (Season 1)",
+    "poster": "assets/Images/Arcane.jpg",
+    "drive": "https://drive.google.com/drive/folders/1WlVdSLdG6V9nV6yhYDV3TqwQ-x0lgFNF/preview",
+    "type": "show"
+  },
+  {
+    "id": "assassination-classroom",
+    "name": "Assassination Classroom (Complete Series)",
+    "poster": "assets/Images/AssassinationClassroom.jpg",
+    "drive": "https://drive.google.com/drive/folders/1T-JYKyNVjYjwzEmTDr6kErnlSlnT-I2X/preview",
+    "type": "anime"
+  },
+  {
+    "id": "attack-on-titan",
+    "name": "Attack on Titan (Seasons 1–4)",
+    "poster": "assets/Images/AttackOnTitans.jpg",
+    "drive": "https://drive.google.com/drive/folders/1WUWO12Vnws_H4yhSIKn_I1PY3W0j7NbB/preview",
+    "type": "anime"
+  },
+  {
+    "id": "back-to-the-future-1985",
+    "name": "Back to the Future (1985)",
+    "poster": "assets/Images/BTTF.jpg",
+    "drive": "https://drive.google.com/file/d/1ZwP0FLdFdAoeskqGvQYX5CwqEeSFWS1G/preview",
+    "type": "movie"
+  },
+  {
+    "id": "back-to-the-future-2-1989",
+    "name": "Back to the Future Part II (1989)",
+    "poster": "assets/Images/BTTF2.jpg",
+    "drive": "https://drive.google.com/file/d/1vmA2LTkSzbtUJve8TTy2UVkPAfHMtGwK/preview",
+    "type": "movie"
+  },
+  {
+    "id": "back-to-the-future-3-1990",
+    "name": "Back to the Future Part III (1990)",
+    "poster": "assets/Images/BTTF3.jpg",
+    "drive": "https://drive.google.com/file/d/16A4hzHFTcNduq6F-u4zQw7iTha5aEKD-/preview",
+    "type": "movie"
+  },
+  {
+    "id": "beast-games",
+    "name": "Beast Games",
+    "poster": "assets/Images/BeastGames.jpg",
+    "drive": "https://drive.google.com/drive/folders/1Q8_n0CTVT3eUg_mZe-10NDYnJl9p-9w7/preview",
+    "type": "show"
+  },
+  {
+    "id": "bee-movie-2007",
+    "name": "Bee Movie (2007)",
+    "poster": "assets/Images/BeeMovie.jpg",
+    "drive": "https://drive.google.com/file/d/1AiuhAubyrKVmqpu3OfM1sonhRJrzw5v6/preview",
+    "type": "movie"
+  },
+  {
+    "id": "beetlejuice-1988",
+    "name": "Beetlejuice (1988)",
+    "poster": "assets/Images/BeetleJuice.jpg",
+    "drive": "https://drive.google.com/file/d/1fs2-oBGADuUeepkLX2V3zxNNUstHvBTs/preview",
+    "type": "movie"
+  },
+  {
+    "id": "beetlejuice-beetlejuice-2024",
+    "name": "Beetlejuice Beetlejuice (2024)",
+    "poster": "assets/Images/BeetleJuiceBeetleJuice.jpg",
+    "drive": "https://drive.google.com/file/d/1OsCtW4NUV94utDNxmFejUFoH6euf8Ind/preview",
+    "type": "movie"
+  },
+  {
+    "id": "berserk-2016",
+    "name": "Berserk (2016)",
+    "poster": "assets/Images/Berserk.webp",
+    "drive": "https://drive.google.com/drive/folders/1lK-NFOCnrBDfxaZMrgwm7Oxz0fIIodr7/preview",
+    "type": "anime"
+  },
+  {
+    "id": "black-panther-2018",
+    "name": "Black Panther (2018)",
+    "poster": "assets/Images/BlackPanther.jpg",
+    "drive": "https://drive.google.com/file/d/1GdMksUpH7ghCBF1j4sEmJU9hmZ3pPpkn/preview",
+    "type": "movie"
+  },
+  {
+    "id": "black-phone-2-2025",
+    "name": "The Black Phone 2 (2025)",
+    "poster": "assets/Images/TheBlackPhone2.jpg",
+    "drive": "https://drive.google.com/file/d/1Nnkb35gi9f-jc4LvwVDUq8MTLur7mK3L/preview",
+    "type": "movie"
+  },
+  {
+    "id": "blue-lock-season-1",
+    "name": "Blue Lock (Season 1)",
+    "poster": "assets/Images/BlueLock.jpg",
+    "drive": "https://drive.google.com/drive/folders/1L_4PmRvkuqYsvLQSzMuaqRVDQg2pb9Z6/preview",
+    "type": "anime"
+  },
+  {
+    "id": "boondocks-complete",
+    "name": "The Boondocks (Complete Series)",
+    "poster": "assets/Images/TheBoondocks.jpg",
+    "drive": "https://drive.google.com/drive/folders/1ujarzaX_90FGOiRC15OmXOAgwSbdI_kA/preview",
+    "type": "show"
+  },
+  {
+    "id": "breaking-bad-complete",
+    "name": "Breaking Bad (Complete Series)",
+    "poster": "assets/Images/BreakingBad.jpg",
+    "drive": "https://drive.google.com/drive/folders/1LUGIlUWZvF8KYteunq8jrNf5kZZcujQ7/preview",
+    "type": "show"
+  },
+  {
+    "id": "captain-america-the-first-avenger-2011",
+    "name": "Captain America: The First Avenger (2011)",
+    "poster": "assets/Images/CaptainAmericaTheFirstAvenger.jpg",
+    "drive": "https://drive.google.com/file/d/1a-vhj45NB5D36Fw8RSoqj4Cra16e2tyC/preview",
+    "type": "movie"
+  },
+  {
+    "id": "captain-america-civil-war-2016",
+    "name": "Captain America: Civil War (2016)",
+    "poster": "assets/Images/CaptainAmericaCivilWar.jpg",
+    "drive": "https://drive.google.com/file/d/1FnBLba4jTPe5UbTPobGFvRcoAuR4zhMb/preview",
+    "type": "movie"
+  },
+  {
+    "id": "cars-2006",
+    "name": "Cars (2006)",
+    "poster": "assets/Images/Cars.jpg",
+    "drive": "https://drive.google.com/file/d/106N7zd611ShtPMOx97XwFSxkg8theQLN/preview",
+    "type": "movie"
+  },
+  {
+    "id": "chainsaw-man",
+    "name": "Chainsaw Man (Season 1)",
+    "poster": "assets/Images/ChainSawMan.jpg",
+    "drive": "https://drive.google.com/drive/folders/14ES_2SDXFRV6n1FU880Hk8en7BMkOC_3/preview",
+    "type": "anime"
+  },
+  {
+    "id": "cocaine-bear-2023",
+    "name": "Cocaine Bear (2023)",
+    "poster": "assets/Images/CocaineBear.jpg",
+    "drive": "https://drive.google.com/file/d/1vrClp3nIYkdIBRPzZDxxq7ICIOWHioAh/preview",
+    "type": "movie"
+  },
+  {
+    "id": "deadpool-2016",
+    "name": "Deadpool (2016)",
+    "poster": "assets/Images/Deadpool.jpg",
+    "drive": "https://drive.google.com/file/d/17QTeEVPc-E4YsWm-tQ4toG-DpLefpx4E/preview",
+    "type": "movie"
+  },
+  {
+    "id": "deadpool-2-2018",
+    "name": "Deadpool 2 (2018)",
+    "poster": "assets/Images/Deadpool2.jpg",
+    "drive": "https://drive.google.com/file/d/1tF1C-2tktolFSAJaLG0C2sE_2sGyH3YI/preview",
+    "type": "movie"
+  },
+  {
+    "id": "deadpool-and-wolverine-2024",
+    "name": "Deadpool & Wolverine (2024)",
+    "poster": "assets/Images/DeadpoolAndWolverine.jpg",
+    "drive": "https://drive.google.com/file/d/1aBzsoTJAjhZeFFDkIV2SN7p7ZHagUEDc/preview",
+    "type": "movie"
+  },
+  {
+    "id": "death-note-complete",
+    "name": "Death Note (Complete Series)",
+    "poster": "assets/Images/DeathNote.jpg",
+    "drive": "https://drive.google.com/drive/folders/166tNe4UUWgYROWK4DwhtZKxgrpFZZAm5/preview",
+    "type": "anime"
+  },
+  {
+    "id": "doctor-strange-2016",
+    "name": "Doctor Strange (2016)",
+    "poster": "assets/Images/DoctorStrange.jpg",
+    "drive": "https://drive.google.com/file/d/11PAFLA_D94t0ZbSqcy-ggyl2DU7g0Ay2/preview",
+    "type": "movie"
+  },
+  {
+    "id": "dog-man-2025",
+    "name": "Dog Man (2025)",
+    "poster": "assets/Images/Dogman.jpg",
+    "drive": "https://drive.google.com/file/d/10qrrGAoRN3D01A7cUkrNuDELSAayfgwq/preview",
+    "type": "movie"
+  },
+  {
+    "id": "dungeons-and-dragons-honor-among-thieves-2023",
+    "name": "Dungeons & Dragons: Honor Among Thieves (2023)",
+    "poster": "assets/Images/DungeonAndDragonsHonorAmongThieves.jpg",
+    "drive": "https://drive.google.com/file/d/1iX6QbaV3Oi_yGDvqRcFvrJ4_gzIOisnT/preview",
+    "type": "movie"
+  },
+  {
+    "id": "elf-2003",
+    "name": "Elf (2003)",
+    "poster": "assets/Images/Elf.jpg",
+    "drive": "https://drive.google.com/file/d/1aus7IcL_iSNmvkKohgiZCjNoCmztRehu/preview",
+    "type": "movie"
+  },
+  {
+    "id": "family-guy-complete",
+    "name": "Family Guy (Complete Series)",
+    "poster": "assets/Images/FamilyGuy.jpg",
+    "drive": "https://drive.google.com/drive/folders/11W6C-Jqv9iQVasqjfiaYz77puax1UTjH/preview",
+    "type": "show"
+  },
+  {
+    "id": "finding-dory-2016",
+    "name": "Finding Dory (2016)",
+    "poster": "assets/Images/FindingDory.jpg",
+    "drive": "https://drive.google.com/file/d/1uDOp65KtEnID520JjNC_kMOm91mNfGq6/preview",
+    "type": "movie"
+  },
+  {
+    "id": "finding-nemo-2003",
+    "name": "Finding Nemo (2003)",
+    "poster": "assets/Images/FindingNemo.jpg",
+    "drive": "https://drive.google.com/file/d/11CN0fT7CwCHgz__mY4FWjcoT5w_wZD9S/preview",
+    "type": "movie"
+  },
+  {
+    "id": "five-nights-at-freddys-2023",
+    "name": "Five Nights at Freddy's (2023)",
+    "poster": "assets/Images/FNAFMOVIE.jpg",
+    "drive": "https://drive.google.com/file/d/1OyO1OdhtfwR883Uvi0QPP5iooGcxTVSY/preview",
+    "type": "movie"
+  },
+  {
+    "id": "five-nights-at-freddys-2-2025",
+    "name": "Five Nights at Freddy's 2 (2025)",
+    "poster": "assets/Images/FNAF2Movie.jpg",
+    "drive": "https://drive.google.com/file/d/1dW1XsOWtiL0mGHOFIB8n0rEhLPoa2buJ/preview",
+    "type": "movie"
+  },
+  {
+    "id": "garfield-and-friends",
+    "name": "Garfield & Friends (Complete Series)",
+    "poster": "assets/Images/GarfieldAndFreinds.jpg",
+    "drive": "https://drive.google.com/drive/folders/1u9Pr61UADQ2cTYvkIkqpEjCzJf9bM9Ic/preview",
+    "type": "show"
+  },
+  {
+    "id": "ghostbusters-1984",
+    "name": "Ghostbusters (1984)",
+    "poster": "assets/Images/GhostBusters.jpg",
+    "drive": "https://drive.google.com/file/d/1OY7HZkep77B12l4wRYCN_D23gR9M2G9m/preview",
+    "type": "movie"
+  },
+  {
+    "id": "ghostbusters-2-1989",
+    "name": "Ghostbusters II (1989)",
+    "poster": "assets/Images/GhostBusters2.jpg",
+    "drive": "https://drive.google.com/file/d/1VPN-P5xWjbEHv-VtlzjryjyV-nx7Z_w_/preview",
+    "type": "movie"
+  },
+  {
+    "id": "gravity-falls-complete",
+    "name": "Gravity Falls (Complete Series)",
+    "poster": "assets/Images/GravityFalls.jpg",
+    "drive": "https://drive.google.com/drive/folders/1Q6s6AB7BAOndbFy4xcnuX4FjO8uHnqaZ/preview",
+    "type": "show"
+  },
+  {
+    "id": "gremlins-1984",
+    "name": "Gremlins (1984)",
+    "poster": "assets/Images/Gremlins.jpg",
+    "drive": "https://drive.google.com/file/d/1OaLNJbZmSdQgH7Q9uN2u18ZOxHXOU7YJ/preview",
+    "type": "movie"
+  },
+  {
+    "id": "harry-potter-1-2001",
+    "name": "Harry Potter and the Sorcerer's Stone (2001)",
+    "poster": "assets/Images/Harry Potter and the Sorcerer's Stone.jpg",
+    "drive": "https://drive.google.com/file/d/1bJMKhvzwuVfAYECLheyA_h38T9oYvkgX/preview",
+    "type": "movie"
+  },
+  {
+    "id": "harry-potter-2-2002",
+    "name": "Harry Potter and the Chamber of Secrets (2002)",
+    "poster": "assets/Images/Harry Potter and the Chamber of Secrets.jpg",
+    "drive": "https://drive.google.com/file/d/1NSY9Ij-PcPhN4ODmmNTSvUhD5osQ_SCo/preview",
+    "type": "movie"
+  },
+  {
+    "id": "harry-potter-3-2004",
+    "name": "Harry Potter and the Prisoner of Azkaban (2004)",
+    "poster": "assets/Images/Harry Potter and the Prisoner of Azkaban.jpg",
+    "drive": "https://drive.google.com/file/d/1Zu15ykGtc1xxKIKfAeUV_L1vAbCt--zO/preview",
+    "type": "movie"
+  },
+  {
+    "id": "harry-potter-4-2005",
+    "name": "Harry Potter and the Goblet of Fire (2005)",
+    "poster": "assets/Images/Harry Potter and the Goblet of Fire.jpg",
+    "drive": "https://drive.google.com/file/d/1yYxqmSv99zFBsJkT0cZYd4C4PTNC9bUU/preview",
+    "type": "movie"
+  },
+  {
+    "id": "harry-potter-5-2007",
+    "name": "Harry Potter and the Order of the Phoenix (2007)",
+    "poster": "assets/Images/harry potter and the order of the phoenix.jpg",
+    "drive": "https://drive.google.com/file/d/1eVK_s8Sp-Gvv1J65ocyLbwyqC7vkuoFK/preview",
+    "type": "movie"
+  },
+  {
+    "id": "harry-potter-6-2009",
+    "name": "Harry Potter and the Half-Blood Prince (2009)",
+    "poster": "assets/Images/harry potter and the half blood prince.jpg",
+    "drive": "https://drive.google.com/file/d/1QfAnvJtU3oR7IV2CrN2qRx4vFThjbbe1/preview",
+    "type": "movie"
+  },
+  {
+    "id": "harry-potter-7-2010",
+    "name": "Harry Potter and the Deathly Hallows – Part 1 (2010)",
+    "poster": "assets/Images/harry potter and the deathly hallows part 1.jpg",
+    "drive": "https://drive.google.com/file/d/17UlhT2qVX10O8AksEEdWuaUqoVF78-oH/preview",
+    "type": "movie"
+  },
+  {
+    "id": "harry-potter-8-2011",
+    "name": "Harry Potter and the Deathly Hallows – Part 2 (2011)",
+    "poster": "assets/Images/harry potter and the deathly hallows part 2.jpg",
+    "drive": "https://drive.google.com/file/d/16jXkeJny6L8MrC_7issz4AtANAzNDJqw/preview",
+    "type": "movie"
+  },
+  {
+    "id": "interstellar-2014",
+    "name": "Interstellar (2014)",
+    "poster": "assets/Images/Interstellar.jpg",
+    "drive": "https://drive.google.com/file/d/1rjx6-12dB11LWwj5jFEFX2QMuZiEVUFk/preview",
+    "type": "movie"
+  },
+  {
+    "id": "invincible-complete",
+    "name": "Invincible (Complete Series)",
+    "poster": "assets/Images/Invincible.jpg",
+    "drive": "https://drive.google.com/drive/folders/1xewFLZCNhjF5DtQDM5VxDic7ClprMjal/preview",
+    "type": "show"
+  },
+  {
+    "id": "iron-man-2008",
+    "name": "Iron Man (2008)",
+    "poster": "assets/Images/IronMan.jpg",
+    "drive": "https://drive.google.com/file/d/1etZlXVkk2dmSbB5m2J4EK80c7FggVF4V/preview",
+    "type": "movie"
+  },
+  {
+    "id": "iron-man-2-2010",
+    "name": "Iron Man 2 (2010)",
+    "poster": "assets/Images/IronMan2.jpg",
+    "drive": "https://drive.google.com/file/d/1u1glpdPyZvJ1MAgTrxAnTrS8Wvys3Bdt/preview",
+    "type": "movie"
+  },
+  {
+    "id": "iron-man-3-2013",
+    "name": "Iron Man 3 (2013)",
+    "poster": "assets/Images/Iron man 3.jpg",
+    "drive": "https://drive.google.com/file/d/1I3cDTsDBihDYId6KuKS6ighOcJ5g6oyC/preview",
+    "type": "movie"
+  },
+  {
+    "id": "jjk-season-1-2",
+    "name": "Jujutsu Kaisen (Seasons 1–2)",
+    "poster": "assets/Images/JJK.jpg",
+    "drive": "https://drive.google.com/drive/folders/1eqNcKK02wEdRV7RnfrmDRZf2s2QZHUyj/preview",
+    "type": "anime"
+  },
+  {
+    "id": "joker-2019",
+    "name": "Joker (2019)",
+    "poster": "assets/Images/TheJoker.jpg",
+    "drive": "https://drive.google.com/file/d/1__wCd7uV9s7qY-o7qZ6F1lO9UQPV7B90/preview",
+    "type": "movie"
+  },
+  {
+    "id": "joker-folie-a-deux-2024",
+    "name": "Joker: Folie à Deux (2024)",
+    "poster": "assets/Images/Joker FolieADeux.jpg",
+    "drive": "https://drive.google.com/file/d/1lah_NrpbGpx_Y4f3cuLjFsjxlM-YiZ2n/preview",
+    "type": "movie"
+  },
+  {
+    "id": "kuroko-no-basket-complete",
+    "name": "Kuroko no Basket (Complete Series)",
+    "poster": "assets/Images/kuroko no basket.webp",
+    "drive": "https://drive.google.com/drive/folders/1rNWnNVvhrAXkr9yBK1XD-ov27LVhS1TH/preview",
+    "type": "anime"
+  },
+  {
+    "id": "looney-tunes-back-in-action-2003",
+    "name": "Looney Tunes: Back in Action (2003)",
+    "poster": "assets/Images/LooneyTunesbackinAction.jpg",
+    "drive": "https://drive.google.com/file/d/1PA5vcjbxZ9114U77pV4canJ_7xNwMhHm/preview",
+    "type": "movie"
+  },
+  {
+    "id": "mean-girls-2004",
+    "name": "Mean Girls (2004)",
+    "poster": "assets/Images/MeanGirls.jpg",
+    "drive": "https://drive.google.com/file/d/1Hab49OuPK37MngOtQolLsVIzJ4AK9cNA/preview",
+    "type": "movie"
+  },
+  {
+    "id": "minions-2015",
+    "name": "Minions (2015)",
+    "poster": "assets/Images/Minions.jpg",
+    "drive": "https://drive.google.com/file/d/1ZJWkqS6Y5XO6bRrgCH88rgQZR848Lr8V/preview",
+    "type": "movie"
+  },
+  {
+    "id": "mha-season-1",
+    "name": "My Hero Academia (Season 1)",
+    "poster": "assets/Images/MHA1.jpg",
+    "drive": "https://drive.google.com/drive/folders/1v8BMG58ZRYNIWSgIxxHezBSCc11XIBIv/preview",
+    "type": "anime"
+  },
+  {
+    "id": "mha-season-2",
+    "name": "My Hero Academia (Season 2)",
+    "poster": "assets/Images/MHA2.jpg",
+    "drive": "https://drive.google.com/drive/folders/1hsHIuM_1TjMEMQQDobvz4xw_qi45SVCY/preview",
+    "type": "anime"
+  },
+  {
+    "id": "mha-season-3",
+    "name": "My Hero Academia (Season 3)",
+    "poster": "assets/Images/MHA3.jpg",
+    "drive": "https://drive.google.com/drive/folders/1cnArp_7jQz70PwBTiRLJO5_xrYVGgTGl/preview",
+    "type": "anime"
+  },
+  {
+    "id": "mha-season-4",
+    "name": "My Hero Academia (Season 4)",
+    "poster": "assets/Images/MHA4.jpg",
+    "drive": "https://drive.google.com/drive/folders/1_JqpVKIvQG14ANk8wBLfq_Rg69mPnZwf/preview",
+    "type": "anime"
+  },
+  {
+    "id": "mha-season-5",
+    "name": "My Hero Academia (Season 5)",
+    "poster": "assets/Images/MHA6.jpg",
+    "drive": "https://drive.google.com/drive/folders/1fml71A9f4FzAQwq9FDYyv25vAFoHhsWE/preview",
+    "type": "anime"
+  },
+  {
+    "id": "mha-season-6",
+    "name": "My Hero Academia (Season 6)",
+    "poster": "assets/Images/MHA6Real.jpg",
+    "drive": "https://drive.google.com/drive/folders/11BmJJ1cswuNAYeoDcYl9dFW1QngvClVT/preview",
+    "type": "anime"
+  },
+  {
+    "id": "minecraft-movie",
+    "name": "A Minecraft Movie",
+    "poster": "assets/Images/MinecraftMovie.jpg",
+    "drive": "https://drive.google.com/file/d/1Te2pRMPEu19R1ytg3psW46islpyprvkW/preview",
+    "type": "movie"
+  },
+  {
+    "id": "narnia-lion-witch-wardrobe-2005",
+    "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+    "poster": "assets/Images/The Chronicles of Narnia The Lion, the Witch and the Wardrobe.jpg",
+    "drive": "https://drive.google.com/file/d/14TYyfl0ogVnDyw_yKCrU_jKGPIDBM3Nu/preview",
+    "type": "movie"
+  },
+  {
+    "id": "oppenheimer-2023",
+    "name": "Oppenheimer (2023)",
+    "poster": "assets/Images/Oppenheimer.jpg",
+    "drive": "https://drive.google.com/file/d/1GLqywDPqfZSLmLAiKC8j2l0o52cAGP8S/preview",
+    "type": "movie"
+  }
+  
+  ,{
+    "id": "parasyte-complete",
+    "name": "Parasyte (Complete Series)",
+    "poster": "assets/Images/Parasyte.jpg",
+    "drive": "https://drive.google.com/drive/folders/1xUQrP52EaSY5apdQ6vX6jAPMHziv7yfN/preview",
+    "type": "anime"
+  },
+  {
+    "id": "pokemon-complete",
+    "name": "Pokémon (Complete Series)",
+    "poster": "assets/Images/Pokemon.jpg",
+    "drive": "https://drive.google.com/drive/folders/1I7-ZUInlg9jb4R6LGq0qX3n7bjGKPFFO/preview",
+    "type": "anime"
+  },
+  {
+    "id": "polar-express-2004",
+    "name": "The Polar Express (2004)",
+    "poster": "assets/Images/PolarExpress.jpg",
+    "drive": "https://drive.google.com/file/d/19KYYKqlEQyEuUTUQv32U53WoIDvKTRrx/preview",
+    "type": "movie"
+  },
+  {
+    "id": "quintessential-quintuplets-s1",
+    "name": "The Quintessential Quintuplets (Season 1)",
+    "poster": "assets/Images/TheQuintessentialQuintuplets.jpg",
+    "drive": "https://drive.google.com/drive/folders/1AhsUWbzmPqRB6hGiyKkKpxMfy4Am9Y0y/preview",
+    "type": "anime"
+  },
+  {
+    "id": "quintessential-quintuplets-s2",
+    "name": "The Quintessential Quintuplets (Season 2)",
+    "poster": "assets/Images/TheQuintessentialQuintuplets season 2.jpg",
+    "drive": "https://drive.google.com/drive/folders/1kmDrHbPoKmKnQBaah_ydrPyjRPjAgy_9/preview",
+    "type": "anime"
+  },
+  {
+    "id": "quintessential-quintuplets-movie",
+    "name": "The Quintessential Quintuplets Movie",
+    "poster": "assets/Images/TheQuintessentialQuintuplets.jpg",
+    "drive": "https://drive.google.com/drive/folders/1dfF7M1S1ot5o6BQ_Ti0C_xmr6EWLfI3K/preview",
+    "type": "anime"
+  },
+  {
+    "id": "ratatouille-2007",
+    "name": "Ratatouille (2007)",
+    "poster": "assets/Images/Ratatouille.jpg",
+    "drive": "https://drive.google.com/file/d/1kjVDdXtZ3-O0SndMHeIwMXe4jNZJ4w2C/preview",
+    "type": "movie"
+  },
+  {
+    "id": "red-one-2024",
+    "name": "Red One (2024)",
+    "poster": "assets/Images/RedOne.jpg",
+    "drive": "https://drive.google.com/file/d/1wevUU0vYh66BVIySC4_Ia9-BSCuzWU98/preview",
+    "type": "movie"
+  },
+  {
+    "id": "rogue-one-2016",
+    "name": "Rogue One: A Star Wars Story (2016)",
+    "poster": "assets/Images/RogueOne.jpg",
+    "drive": "https://drive.google.com/file/d/19Pa9tkJFpPZdImgpd8a9wQGaqt2yGlEJ/preview",
+    "type": "movie"
+  },
+  {
+    "id": "salems-lot-2024",
+    "name": "Salem's Lot (2024)",
+    "poster": "assets/Images/SalemsLot.jpg",
+    "drive": "https://drive.google.com/file/d/1PzQJ5iQOKas1DnXPUFsDsHbjEhR_bu1z/preview",
+    "type": "movie"
+  },
+  {
+    "id": "samurai-jack-complete",
+    "name": "Samurai Jack (Complete Series)",
+    "poster": "assets/Images/SamuriJack.jpg",
+    "drive": "https://drive.google.com/drive/folders/1PomTEzZLxhHMnvVkDEGJVgzfboCrA5Ev/preview",
+    "type": "show"
+  },
+  {
+    "id": "shazam-2019",
+    "name": "Shazam! (2019)",
+    "poster": "assets/Images/Shazam!.jpg",
+    "drive": "https://drive.google.com/file/d/1u5u_-G0KReiP4Q4eHvx7qwb4jv6ZARdh/preview",
+    "type": "movie"
+  },
+  {
+    "id": "shazam-fury-of-the-gods-2023",
+    "name": "Shazam: Fury of the Gods (2023)",
+    "poster": "assets/Images/ShazamFuryOftheGods.jpg",
+    "drive": "https://drive.google.com/file/d/1LC17KNt1pxG1zJ43CwIBNGXaCN3cmLPc/preview",
+    "type": "movie"
+  },
+  {
+    "id": "shang-chi-2021",
+    "name": "Shang-Chi and the Legend of the Ten Rings (2021)",
+    "poster": "assets/Images/Shang-Chi and the Legend of the Ten Rings.jpg",
+    "drive": "https://drive.google.com/file/d/1xBiVuAnW0hFxIhG3samjzJJ-czMAKxN0/preview",
+    "type": "movie"
+  },
+  {
+    "id": "smiling-friends-complete",
+    "name": "Smiling Friends (Complete Series)",
+    "poster": "assets/Images/SmilingFriends.jpg",
+    "drive": "https://drive.google.com/drive/folders/1px8IK0jaSlqj3fK-yawRwD0aQD4pXGld/preview",
+    "type": "show"
+  },
+  {
+    "id": "south-park-complete",
+    "name": "South Park (Complete Series)",
+    "poster": "assets/Images/SouthPark.jpg",
+    "drive": "https://drive.google.com/drive/folders/1PzKaoaK4blzlaoxnwC20gZoeYE5mDxWL/preview",
+    "type": "show"
+  },
+  {
+    "id": "south-park-end-of-obesity-2024",
+    "name": "South Park: The End of Obesity (2024)",
+    "poster": "assets/Images/SouthParkTheEndofObesity.jpg",
+    "drive": "https://drive.google.com/file/d/1k_Bk1E4vLdzymXcGOA92axzicOgmarFp/preview",
+    "type": "movie"
+  },
+  {
+    "id": "space-jam-a-new-legacy-2021",
+    "name": "Space Jam: A New Legacy (2021)",
+    "poster": "assets/Images/SpaceJamANewLegacy.jpg",
+    "drive": "https://drive.google.com/file/d/1v2xqKQcAvndfcqsctZH73NR2AjFXsrUr/preview",
+    "type": "movie"
+  },
+  {
+    "id": "spider-man-2002",
+    "name": "Spider-Man (2002)",
+    "poster": "assets/Images/SpiderManSamRaimi.jpg",
+    "drive": "https://drive.google.com/file/d/14BaJhmDRr3veoH436CKdPDp9r-j5214I/preview",
+    "type": "movie"
+  },
+  {
+    "id": "spider-man-2-2004",
+    "name": "Spider-Man 2 (2004)",
+    "poster": "assets/Images/SpiderMan2.jpg",
+    "drive": "https://drive.google.com/file/d/1BJTsBEOeTbpv3fqU0ejzb44aQGrdLhyN/preview",
+    "type": "movie"
+  },
+  {
+    "id": "spider-man-3-2007",
+    "name": "Spider-Man 3 (2007)",
+    "poster": "assets/Images/Spiderman3.jpg",
+    "drive": "https://drive.google.com/file/d/1vi0w7U65XeR-u00AQ8uS9s3C-IoiV-_1/preview",
+    "type": "movie"
+  },
+  {
+    "id": "spider-man-homecoming-2017",
+    "name": "Spider-Man: Homecoming (2017)",
+    "poster": "assets/Images/SpiderManHomecoming.jpg",
+    "drive": "https://drive.google.com/file/d/1I9PYrrRLo1m_5Wtfq59L6gHGa3NaUXDv/preview",
+    "type": "movie"
+  },
+  {
+    "id": "spider-man-no-way-home-2021",
+    "name": "Spider-Man: No Way Home (2021)",
+    "poster": "assets/Images/SpiderManNoWayHome.jpg",
+    "drive": "https://drive.google.com/file/d/1oddQM8w-8UqQIvB-fPpy1h-7xvAbklmA/preview",
+    "type": "movie"
+  },
+  {
+    "id": "spider-man-across-the-spider-verse-2023",
+    "name": "Spider-Man: Across the Spider-Verse (2023)",
+    "poster": "assets/Images/SpiderManAcrossTheSpiderVerse.jpg",
+    "drive": "https://drive.google.com/file/d/1Sd1l_LhKRp_2OE5gRJJyPubnZjJccLgQ/preview",
+    "type": "movie"
+  },
+  {
+    "id": "star-wars-episode-1-1999",
+    "name": "Star Wars: Episode I – The Phantom Menace (1999)",
+    "poster": "assets/Images/StarwarsIPhatomMeance.jpg",
+    "drive": "https://drive.google.com/file/d/1kxXlV-lNOjqSnqwiMQxYVrcbhxQl45Sw/preview",
+    "type": "movie"
+  },
+  {
+    "id": "star-wars-episode-2-2002",
+    "name": "Star Wars: Episode II – Attack of the Clones (2002)",
+    "poster": "assets/Images/StarwarsIIAttackofTheclones.jpg",
+    "drive": "https://drive.google.com/file/d/1u0ZRN7s8rgAMYtvnGf3zTjpM7Fu6TmW_/preview",
+    "type": "movie"
+  },
+  {
+    "id": "star-wars-episode-3-2005",
+    "name": "Star Wars: Episode III – Revenge of the Sith (2005)",
+    "poster": "assets/Images/StarWarsIIIRevengeofTheSith.jpg",
+    "drive": "https://drive.google.com/file/d/1lEszWnr2BinTfzBGqtoDV1W9wMIlTQtb/preview",
+    "type": "movie"
+  },
+  {
+    "id": "star-wars-1977",
+    "name": "Star Wars: A New Hope (1977)",
+    "poster": "assets/Images/StarWarsANewHope.jpg",
+    "drive": "https://drive.google.com/file/d/1nDgCNAuFgSI6fDKbRZFkDhzViib1ixYS/preview",
+    "type": "movie"
+  },
+  {
+    "id": "star-wars-empire-strikes-back-1980",
+    "name": "Star Wars: The Empire Strikes Back (1980)",
+    "poster": "assets/Images/StarWarsIVAnewHope.jpg",
+    "drive": "https://drive.google.com/file/d/1q0Jof59Il_So2z5Q38ANn55qB2GCpOx3/preview",
+    "type": "movie"
+  },
+  {
+    "id": "star-wars-force-awakens-2015",
+    "name": "Star Wars: The Force Awakens (2015)",
+    "poster": "assets/Images/StarWarsAforceAwekens.jpg",
+    "drive": "https://drive.google.com/file/d/1D-T-C4PNPbZ61wiHqXgQlQqYy_NTcsKa/preview",
+    "type": "movie"
+  },
+  {
+    "id": "star-wars-last-jedi-2017",
+    "name": "Star Wars: The Last Jedi (2017)",
+    "poster": "assets/Images/StarWarsTheLastJedi.jpg",
+    "drive": "https://drive.google.com/file/d/1vCdep3QXu8GE9IaNUdVmCGLiG24kFrWb/preview",
+    "type": "movie"
+  },
+  {
+    "id": "star-wars-rise-of-skywalker-2019",
+    "name": "Star Wars: The Rise of Skywalker (2019)",
+    "poster": "assets/Images/Star Wars The Rise of Skywalker.jpg",
+    "drive": "https://drive.google.com/file/d/1viDV-Gu6yGHOpyaDefPH3Id9fXSHuTsi/preview",
+    "type": "movie"
+  },
+  {
+    "id": "star-wars-clone-wars-2008",
+    "name": "Star Wars: The Clone Wars (2008)",
+    "poster": "assets/Images/StarWarsTheCloneWars2008.jpg",
+    "drive": "https://drive.google.com/file/d/16dO2t6nMYzRFTKGBVByMPYtru6kwix7H/preview",
+    "type": "movie"
+  },
+  {
+    "id": "stranger-things-complete",
+    "name": "Stranger Things (Complete Series)",
+    "poster": "assets/Images/StrangerThings.jpg",
+    "drive": "https://drive.google.com/drive/folders/1jAz194tABiNtrcHbX9kzyGqoLlzmUEJ3/preview",
+    "type": "show"
+  },
+  {
+    "id": "teen-titans-complete",
+    "name": "Teen Titans (Complete Series)",
+    "poster": "assets/Images/TeenTitans1-5.jpg",
+    "drive": "https://drive.google.com/drive/folders/1vqoOxi2w4IJmPelqXsTmcNCczxb6hIO7/preview",
+    "type": "show"
+  },
+  {
+    "id": "the-addams-family-1991",
+    "name": "The Addams Family (1991)",
+    "poster": "assets/Images/TheAdamsFamily1991.jpg",
+    "drive": "https://drive.google.com/file/d/19ZYLs_076nTJtl7bEUtkwpfbwwj-GevJ/preview",
+    "type": "movie"
+  },
+  {
+    "id": "the-giver-2014",
+    "name": "The Giver (2014)",
+    "poster": "assets/Images/TheGiver.jpg",
+    "drive": "https://drive.google.com/file/d/1vCTBuPezKtsrpHy5u6rcct3yxVCvokPU/preview",
+    "type": "movie"
+  },
+  {
+    "id": "the-goonies-1985",
+    "name": "The Goonies (1985)",
+    "poster": "assets/Images/TheGoonies.jpg",
+    "drive": "https://drive.google.com/file/d/18sSKADZamG3w8ZaanP93XU4yHSVKzApM/preview",
+    "type": "movie"
+  },
+  {
+    "id": "the-lego-movie-2-2019",
+    "name": "The Lego Movie 2: The Second Part (2019)",
+    "poster": "assets/Images/TheLegoMovie2.jpg",
+    "drive": "https://drive.google.com/file/d/1_sb4Ogn-0xQX3Znf21COpLMrfs_x6Nuv/preview",
+    "type": "movie"
+  },
+  {
+    "id": "the-lion-king-1994",
+    "name": "The Lion King (1994)",
+    "poster": "assets/Images/TheLionKing.jpg",
+    "drive": "https://drive.google.com/file/d/1GrJxp4D9XrmYBG_bqRgp1UvQaapyjoV7/preview",
+    "type": "movie"
+  },
+  {
+    "id": "the-lion-king-2-1998",
+    "name": "The Lion King II: Simba's Pride (1998)",
+    "poster": "assets/Images/TheLionKing2SimbasPride.jpg",
+    "drive": "https://drive.google.com/file/d/1-sT4cdDqG6tt4wI0ba7Z3FhDoX8ded8L/preview",
+    "type": "movie"
+  },
+  {
+    "id": "the-powerpuff-girls-complete",
+    "name": "The Powerpuff Girls (Complete Series)",
+    "poster": "assets/Images/ThePowerPuffGirls.jpg",
+    "drive": "https://drive.google.com/drive/folders/1IYfB0oASMroneHQn8KansvGRnNIcYnFd/preview",
+    "type": "show"
+  },
+  {
+    "id": "the-wild-robot-2024",
+    "name": "The Wild Robot (2024)",
+    "poster": "assets/Images/TheWildRobot.jpg",
+    "drive": "https://drive.google.com/file/d/1_N9iHDAM3RbU2a0GTfgcNXDGuZDT_yZ-/preview",
+    "type": "movie"
+  },
+  {
+    "id": "thor-the-dark-world-2013",
+    "name": "Thor: The Dark World (2013)",
+    "poster": "assets/Images/ThorTheDarkWorld.jpg",
+    "drive": "https://drive.google.com/file/d/10r1UB_bpBRfG8HykNJ2j63nwUawm-3FS/preview",
+    "type": "movie"
+  },
+  {
+    "id": "tmnt-mutant-mayhem-2023",
+    "name": "Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)",
+    "poster": "assets/Images/TMNTMutantMayhem.jpg",
+    "drive": "https://drive.google.com/file/d/1emX4CShNejqhStNK-b0xDVBBMA0t2gcE/preview",
+    "type": "movie"
+  },
+  {
+    "id": "total-drama-island-reboot",
+    "name": "Total Drama Island (Reboot)",
+    "poster": "assets/Images/TotalDramaIslandReboot.jpg",
+    "drive": "https://drive.google.com/drive/folders/1y6JO2IeWSvQlpuQjQKJQNHZLN6NgAqIR/preview",
+    "type": "show"
+  },
+  {
+    "id": "venom-2018",
+    "name": "Venom (2018)",
+    "poster": "assets/Images/Venom.jpg",
+    "drive": "https://drive.google.com/file/d/1iRN197XeJCQnZGza599ZTXsayEG1mdRB/preview",
+    "type": "movie"
+  },
+  {
+    "id": "venom-let-there-be-carnage-2021",
+    "name": "Venom: Let There Be Carnage (2021)",
+    "poster": "assets/Images/VenomLetThereBeCarnage.jpg",
+    "drive": "https://drive.google.com/file/d/1N6kL0SF4qR6wFpwfGIZUZjFnz3lQDGGz/preview",
+    "type": "movie"
+  },
+  {
+    "id": "wicked-2024",
+    "name": "Wicked (2024)",
+    "poster": "assets/Images/Wicked.jpg",
+    "drive": "https://drive.google.com/file/d/1EiT5_VDJyMbrG5ezazVyzzOu1nWAkmE8/preview",
+    "type": "movie"
+  },
+  {
+    "id": "willy-wonka-1971",
+    "name": "Willy Wonka & the Chocolate Factory (1971)",
+    "poster": "assets/Images/Willy Wonka and the Chocolate Factory.jpg",
+    "drive": "https://drive.google.com/file/d/1oeD_wjeRQck_3uRIOw9ZXIxG5PuUIPVD/preview",
+    "type": "movie"
+  },
+  {
+    "id": "wonka-2023",
+    "name": "Wonka (2023)",
+    "poster": "assets/Images/Wonka.jpg",
+    "drive": "https://drive.google.com/file/d/1yrqaifXgmM1s7U0yjAcUKDhpknUyG1TN/preview",
+    "type": "movie"
+  },
+  {
+    "id": "x-men-origins-wolverine-2009",
+    "name": "X‑Men Origins: Wolverine (2009)",
+    "poster": "assets/Images/XMenOriginsWolverine.jpg",
+    "drive": "https://drive.google.com/file/d/0BxvqXivT-hg5d2VmZDdsNlBNUzQ/preview",
+    "type": "movie"
+  },
+  {
+    "id": "x-men-the-last-stand-2006",
+    "name": "X‑Men: The Last Stand (2006)",
+    "poster": "assets/Images/XmenTheLastStand.jpg",
+    "drive": "https://drive.google.com/file/d/176dVR22sSEaJMY5TfITCW9TIC2fNYBMm/preview",
+    "type": "movie"
+  },
+  {
+    "id": "young-sheldon",
+    "name": "Young Sheldon (Incomplete Series)",
+    "poster": "assets/Images/YoungSheldon.jpg",
+    "drive": "https://drive.google.com/drive/folders/1oFvmFIdi3tkfM_RB56p41lch86YEeg-d/preview",
+    "type": "show"
+  },
+  {
+    "id": "zootopia-2016",
+    "name": "Zootopia (2016)",
+    "poster": "assets/Images/Zootopia.jpg",
+    "drive": "https://drive.google.com/file/d/1HYeIrbf8A-vfvJsvYP59AQzG9l8nt03h/preview",
+    "type": "movie"
+  },
+  {
+    "id": "zootopia-2-2025",
+    "name": "Zootopia 2 (2025)",
+    "poster": "assets/Images/Zootopia 2.jpg",
+    "drive": "https://drive.google.com/file/d/10lys4xAmzALt_F081ej_9oP3i7Lm1Qgq/preview",
+    "type": "movie"
+  }
+]
