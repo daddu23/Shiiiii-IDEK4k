@@ -1,0 +1,7 @@
+body[data-page="games"] h1 {
+  color: #a855f7;
+}
+
+body[data-page="games"] .card {
+  border-top: 2px solid rgba(168, 85, 247, 0.7);
+}

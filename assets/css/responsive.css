@@ -1,0 +1,39 @@
+@media (max-width: 768px) {
+  .site-header {
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .nav {
+    order: 3;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .search-container {
+    order: 2;
+    width: 100%;
+  }
+
+  .main-content {
+    padding: 0 1rem;
+  }
+
+  .hero {
+    padding: 2.25rem 1rem 2rem;
+  }
+
+  .card-grid {
+    grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  }
+}
+
+@media (max-width: 480px) {
+  .hero h1 {
+    font-size: 1.8rem;
+  }
+
+  .hero-buttons {
+    flex-direction: column;
+  }
+}
