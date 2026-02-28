@@ -136,7 +136,7 @@
 
   { "name": "Ruffle", "file": "Games/Ruffle.html", "image": "assets/Images/Ruffle.png" },
 
-  { "name": "Run 1", "file": "Games/Run 1.html", "image": "assets/Images/Run1.png" ),
+  { "name": "Run 1", "file": "Games/Run 1.html", "image": "assets/Images/Run1.png" },
   { "name": "Run 2", "file": "Games/Run 2.html", "image": "assets/Images/Run2.png" },
   { "name": "Run 3", "file": "Games/Run 3.html", "image": "assets/Images/Run3.png" },
 
@@ -187,3 +187,4 @@
   { "name": "World Box", "file": "Games/World Box.html", "image": "assets/Images/WorldBox.png" },
   { "name": "Yandere Simulator", "file": "Games/yanderesimulator.html", "image": "assets/Images/YandereSimulation.png" }
 ]
+
