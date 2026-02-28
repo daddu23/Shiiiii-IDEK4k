@@ -1,0 +1,134 @@
+===========================================
+ HOW TO ADD YOUR OWN MOVIES, SHOWS & GAMES
+===========================================
+
+This site uses simple JSON files to store all content.
+You DO NOT need to edit HTML or JavaScript to add new items.
+
+Just follow these steps.
+
+-------------------------------------------
+1. WHERE TO PUT POSTERS
+-------------------------------------------
+
+All posters MUST go into:
+
+    assets/Images/
+
+Examples:
+    assets/Images/Deadpool.jpg
+    assets/Images/Minecraft.png
+
+Make sure:
+- The filename matches EXACTLY (case-sensitive)
+- The extension is correct (.jpg, .png, etc.)
+
+-------------------------------------------
+2. WHERE TO ADD MOVIES
+-------------------------------------------
+
+Open:
+
+    data/movies.json
+
+Add a new entry like this:
+
+{
+  "name": "Your Movie Name",
+  "poster": "assets/Images/YourPoster.jpg",
+  "drive": "https://drive.google.com/file/d/XXXX/preview"
+},
+
+NOTES:
+- Every entry EXCEPT the last needs a comma.
+- The Google Drive link MUST end in /preview.
+
+-------------------------------------------
+3. WHERE TO ADD SHOWS
+-------------------------------------------
+
+Open:
+
+    data/shows.json
+
+Add entries in the SAME format:
+
+{
+  "name": "Your Show Name",
+  "poster": "assets/Images/YourPoster.jpg",
+  "drive": "https://drive.google.com/file/d/XXXX/preview"
+},
+
+-------------------------------------------
+4. WHERE TO ADD GAMES
+-------------------------------------------
+
+Open:
+
+    data/games.json
+
+Add entries in the SAME format:
+
+{
+  "name": "Your Game Name",
+  "poster": "assets/Images/YourPoster.jpg",
+  "drive": "https://drive.google.com/file/d/XXXX/preview"
+},
+
+-------------------------------------------
+5. COMMON MISTAKES TO AVOID
+-------------------------------------------
+
+- Wrong poster path:
+      poster must start with: assets/Images/
+
+- Wrong Google Drive link:
+      must be a /preview link, not /view
+
+- Missing comma:
+      every entry except the last needs a comma
+
+- Wrong filename:
+      "Poster.jpg" is NOT the same as "poster.jpg"
+
+-------------------------------------------
+6. HOW THE SITE LOADS CONTENT
+-------------------------------------------
+
+Each page loads its own JSON file:
+
+    movies.html → data/movies.json
+    shows.html  → data/shows.json
+    games.html  → data/games.json
+
+The JavaScript automatically:
+- Reads the JSON
+- Creates cards
+- Loads posters
+- Links to Google Drive
+- Removes broken entries
+
+You NEVER need to edit HTML or JS.
+
+-------------------------------------------
+7. QUICK EXAMPLE
+-------------------------------------------
+
+Add a new movie:
+
+1. Put poster in:
+       assets/Images/Avatar2.jpg
+
+2. Add this to movies.json:
+
+{
+  "name": "Avatar 2",
+  "poster": "assets/Images/Avatar2.jpg",
+  "drive": "https://drive.google.com/file/d/XXXX/preview"
+},
+
+Done.
+
+-------------------------------------------
+END OF FILE
+-------------------------------------------

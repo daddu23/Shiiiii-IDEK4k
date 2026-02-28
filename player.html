@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Movie Player</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<div class="player-container">
+  <h1 id="movie-title"></h1>
+
+  <iframe id="movie-frame"
+          width="100%"
+          height="600"
+          allowfullscreen
+          frameborder="0">
+  </iframe>
+</div>
+
+<script>
+  async function loadMovie() {
+    const params = new URLSearchParams(window.location.search);
+    const id = params.get("id");
+
+    const res = await fetch("data/movies.json");
+    const movies = await res.json();
+
+    const movie = movies.find(m => m.id === id);
+
+    if (!movie) {
+      document.body.innerHTML = "<h1>Movie not found</h1>";
+      return;
+    }
+
+    document.getElementById("movie-title").textContent = movie.name;
+    document.getElementById("movie-frame").src = movie.drive;
+  }
+
+  loadMovie();
+</script>
+
+</body>
+</html>
